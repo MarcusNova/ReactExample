@@ -1,3 +1,12 @@
+# First steps using React
+
+In this project I use the library React and practice the following concepts:
+-Props
+-Components
+-Functions with props
+-States and states handlers
+-Forms with React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

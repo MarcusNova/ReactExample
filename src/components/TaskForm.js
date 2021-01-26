@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Task from './Task';
 
 export default class TaskForm extends Component {
     //Evitar que haga un reload de la pagina
